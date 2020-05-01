@@ -1,6 +1,4 @@
 import scrapy
-from scrapy.crawler import CrawlerProcess
-
 
 class Spider12(scrapy.Spider):
     name = 'spider12'
@@ -35,14 +33,8 @@ class Spider12(scrapy.Spider):
     def parse_new(self, response):
         title = response.xpath('//div[@class="article-titles"]//h1/text()').get()
         body = ' '.join(response.xpath('//div[@class="article-text"]/p/text()').getall())
-        section = response.xpath('//div[@class="suplement"]/a/text()').get()
+        section = response.xpath('//div[@class= "suplement"]/a/text()').get()
         yield {'section': section,
                'url': response.url,
                'title': title,
                'body': body}
-
-
-if __name__ == '__main__':
-    process = CrawlerProcess()
-    process.crawl(Spider12)
-    process.start()

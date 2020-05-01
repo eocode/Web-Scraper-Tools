@@ -2,29 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="493e51b3-0ec4-4b5f-bfdd-21ad02d9159d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WebScrapping.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/1 - Exploring Requests and Bs4-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/2 - Scraping JSSites with selenium-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/3 - Spotify API Scrap-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/4 - Scrappy-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Exploring Requests and Bs4-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/1 - Exploring Requests and Bs4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/2 - Scraping JSSites with selenium.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/3 - Spotify API Scrap.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/4 - Scrappy.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/5 - Proxies.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/6 - Tesseract.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/Notas Pagina12.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/resultados_scrapy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/scrapy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/6 - Tesseract-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/im.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/6 - Tesseract.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/6 - Tesseract.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/resultados_scrapy.json" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/scrapy.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/scrapy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -69,9 +54,6 @@
       <module name="WebScrapping" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -120,22 +102,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588274082711</updated>
-      <workItem from="1588274125925" duration="8788000" />
+      <workItem from="1588274125925" duration="12743000" />
     </task>
+    <task id="LOCAL-00001" summary=":rocket: Add Project notebooks with testing scrappers">
+      <created>1588312347903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588312347903</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":rocket: Add Project notebooks with testing scrappers" />
+    <option name="LAST_COMMIT_MESSAGE" value=":rocket: Add Project notebooks with testing scrappers" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="70" key="#Inspections" timestamp="1588275131338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="70" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1588275131338" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588342103447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588342103447" />
     <state x="480" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588275019080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="480" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1588275019080" />
+    <state x="391" y="0" key="CommitChangelistDialog2" timestamp="1588312346909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="391" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588312346909" />
     <state width="1492" height="190" key="GridCell.Tab.0.bottom" timestamp="1588275307997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

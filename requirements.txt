@@ -5,3 +5,6 @@ selenium
 pandas
 webdriver-manager
 scrapy
+tesserocr
+matplotlib
+numpy
